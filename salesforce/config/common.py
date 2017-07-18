@@ -23,6 +23,7 @@ class Common(Configuration):
         'django_rq',                 # asynchronous queuing
         'versatileimagefield',       # image manipulation
         'django_extensions',
+        'djoser',
 
         # Your apps
         'authentication',

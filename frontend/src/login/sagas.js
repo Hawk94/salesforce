@@ -23,7 +23,7 @@ import {
   CLIENT_UNSET,
 } from '../client/constants'
 
-const loginUrl = `${process.env.REACT_APP_API_URL}/api/Clients/login`
+const loginUrl = `${process.env.REACT_APP_API_URL}/auth/login/`
 
 function loginApi (email, password) {
   return fetch(loginUrl, {

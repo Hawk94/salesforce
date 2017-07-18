@@ -1,4 +1,4 @@
-#salesforce
+# Salesforce
 [![Build Status](https://travis-ci.org/Hawk94/salesforce.svg?branch=master)](https://travis-ci.org/Hawk94/salesforce)
 
 Its all about a Weissman score > 5.0. Check out the project's [documentation](http://Hawk94.github.io/salesforce/).
