@@ -1,0 +1,11 @@
+site_name: salesforce
+site_description: Its all about a Weissman score > 5.0
+repo_url: https://github.com/Hawk94/salesforce
+site_dir: site
+copyright: Copyright &copy; 2017, <a href="https://github.com/Hawk94">Hawk94</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
